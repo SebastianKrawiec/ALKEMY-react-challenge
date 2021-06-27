@@ -41,4 +41,5 @@ para los elementos personalizados que se desarrollen.
 - manejo de estado para modales y menú emergente(mobile)
 - diseño propio
 - modularización de código
+- se puede buscar a los heroes ingresando el numero de id
 
