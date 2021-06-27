@@ -42,4 +42,4 @@ para los elementos personalizados que se desarrollen.
 - diseño propio
 - modularización de código
 
-### SITIO DE SUBIDO PARA PRUEBA
+### SITIO DE SUBIDO PARA PRUEBA: https://alkemy-react-challenge-build.vercel.app/
