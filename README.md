@@ -25,4 +25,21 @@ peso, acumulativo de powerstats, etc.
 ---
 ## CRITERIOS A EVALUAR:
 
--
+- Diseño responsive, moderno e intuitivo.
+- Debe utilizarse Bootstrap para permitir que el proyecto sea responsive, y media queries
+para los elementos personalizados que se desarrollen.
+- Conocimientos básicos de React.
+- Validación de formularios utilizando la librería Formik.
+- Buenas prácticas de codificación.
+- Buenas prácticas para nombre de rutas.
+- Código modularizado en componentes reutilizables e independientes.
+---
+---
+
+### TAREAS REALIZADAS:
+- diseño responsive
+- manejo de estado para modales y menú emergente(mobile)
+- diseño propio
+- modularización de código
+
+### SITIO DE SUBIDO PARA PRUEBA
