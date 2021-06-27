@@ -1,0 +1,14 @@
+.log-in{
+    background-color: var(--color-2th);
+}
+
+@media screen and (min-width:1024px) {
+    .log-in{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: unset;
+    }
+}

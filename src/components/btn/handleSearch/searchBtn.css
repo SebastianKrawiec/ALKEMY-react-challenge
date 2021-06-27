@@ -1,0 +1,38 @@
+.btn--search{
+    position: relative;
+    padding: .8rem;
+    top: -2vh;
+    background-color: var(--color-4th);
+    z-index: 8;
+}
+
+.icon--search{
+    width: 9vw;
+    fill: var(--color-main);
+}
+
+
+@media screen and (min-width:768px) {
+    .btn--search{
+        top: -4vh;
+    }
+
+    .icon--search{
+        width: 3vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .btn--search{
+        position: relative;
+        padding: .8rem;
+        top: -2vh;
+        background-color: unset;
+        z-index: 8;
+    }
+
+    .icon--search{
+        width: 2vw;
+        fill: var(--color-4th);
+    }
+}

@@ -1,0 +1,1 @@
+export const baseUrl = "https://www.superheroapi.com/api.php/527409195087083/";

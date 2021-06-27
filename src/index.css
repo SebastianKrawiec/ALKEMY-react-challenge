@@ -1,0 +1,61 @@
+*,
+*::before,
+*::after{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body{
+  box-sizing: inherit;
+}
+
+
+:root{
+  
+  --color-main:#032D49;
+  --color-2th: #045082;
+  --color-3th: #7e7f80;
+  --color-4th: #B6E6C6;
+  --color-gray:#222222;
+
+
+  --shadow-main: 0 .5rem .9rem 0 rgba(77, 101, 112, 0.9);
+  --shadow-main-active: 0 .6rem .9rem 0 rgba(77, 101, 112, 0.8);
+  --shadow-main-up: 0 -.5rem .9rem 0 rgba(77, 101, 112, 0.9);
+
+
+  --margin-top-sm: 2vh;
+  --margin-top-md: 4vh;
+  --margin-top-la: 6vh;
+
+  --margin-bottom-sm: 2vh;
+  --margin-bottom-md: 4vh;
+  --margin-bottom-la: 6vh;
+}
+
+.btn{
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  transition: all .2s;
+  border: none;
+  outline: none;
+}
+
+.btn:hover{
+  transform: scale(1.1);
+}
+
+.btn:active{
+  transform: scale(.9);
+  box-shadow: var(--shadow-main-active);
+}
+
